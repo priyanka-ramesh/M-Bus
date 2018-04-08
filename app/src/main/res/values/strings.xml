@@ -1,0 +1,27 @@
+<resources>
+
+    <string name="app_name">M-Bus</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="timings">
+        <item>1 Week</item>
+        <item>1 Month</item>
+        <item>3 Month</item>
+        <item>6 Month</item>
+
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string-array name="bus">
+
+        <item>7H</item>
+
+        <item>7H</item>
+        <item>M70</item>
+        <!--<item>2F</item>-->
+    </string-array>
+    <string name="title_activity_maps2">Map</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="24dp"
+    android:paddingRight="24dp"
+    android:paddingTop="56dp"
+    android:id="@+id/payment"
+    tools:context="com.ogs.m_bus.payment">
+
+
+    <Button
+        android:id="@+id/btnpayment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="payment"
+        tools:layout_editor_absoluteX="24dp"
+        tools:layout_editor_absoluteY="206dp" />
+
+</android.support.constraint.ConstraintLayout>
+
